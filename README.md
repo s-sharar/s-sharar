@@ -1,6 +1,5 @@
 <h2 align="left">Hey, I'm Shihan!</h2>
-<h3 align="left">I'm a second-year Computer Science student at the University of Waterloo.</h3>
-<h3 align="left">I'm currently working as a Platform Software Developr at Ford.</h3>
+<h4 align="left">I'm a second-year Computer Science student at the University of Waterloo. I am currently working as a software developer at Ford.</h4>
 
 - I love going to the gym and playing sports.
 - I'm interested in full-stack software development
