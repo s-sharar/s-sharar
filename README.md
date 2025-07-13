@@ -1,5 +1,5 @@
 <h2 align="left">Hey, I'm Shihan!</h2>
-<h4 align="left">I'm a second-year Computer Science student at the University of Waterloo. <br />I am currently looking for internship opportunities for Fall 2025.</h4>
+<h4 align="left">I'm a third-year Computer Science student at the University of Waterloo. <br />I am currently looking for internship opportunities for Summer 2026.</h4>
 
 I'm currently building GraphNote, which builds an offline knowledge graph from your documents and notes, using ML-driven embeddings for instant semantic search and interactive exploration.
 
