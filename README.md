@@ -2,6 +2,7 @@
 <h4 align="left">I'm a third-year Computer Science student at the University of Waterloo. <br />I am currently looking for internship opportunities for Summer 2026.</h4>
 
 I'm currently building GraphNote, which builds an offline knowledge graph from your documents and notes, using ML-driven embeddings for instant semantic search and interactive exploration.
+I'm also building Velocore, my own trading engine.
 
 - I'm interested in full-stack software development
 - To check out my projects or learn more about my professional and educational background, click [here!](https://s-sharar.github.io)
