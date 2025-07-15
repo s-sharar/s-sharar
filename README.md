@@ -4,7 +4,7 @@
 I'm currently building GraphNote, which builds an offline knowledge graph from your documents and notes, using ML-driven embeddings for instant semantic search and interactive exploration.
 I'm also building Velocore, my own trading engine.
 
-If you wanna learn pretty much everything about me, check out my portfolio [here!](https://s-sharar.vercel.app) (I had a lot of fun building this, it's definitely worth checking out).
+If you wanna learn pretty much everything about me, check out my portfolio [here](https://s-sharar.vercel.app) (I had a lot of fun building this, it's definitely worth checking out).
 
 - I'm interested in full-stack software development
 - To check out my projects or learn more about my professional and educational background, click [here!](https://s-sharar.github.io)
